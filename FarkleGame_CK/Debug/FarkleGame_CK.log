@@ -1,0 +1,3 @@
+﻿  FarkleGame_CK.cpp
+c:\users\christopher.kelley4\source\repos\farklegame_ck\farklegame_ck\farklegame_ck.cpp(466): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FarkleGame_CK.vcxproj -> C:\Users\christopher.kelley4\source\repos\FarkleGame_CK\Debug\FarkleGame_CK.exe
